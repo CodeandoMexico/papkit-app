@@ -15,9 +15,10 @@ A través del juego, PAPKIT! empatiza con su forma de aprender y les aporta herr
 ## Índice
 
 * [Acerca del proyecto](https://github.com/CodeandoMexico/papkit-app#acerca-del-proyecto)
-* [Contribuye](https://github.com/CodeandoMexico/papkit-app#contribuye)
-* [Referencias](https://github.com/CodeandoMexico/papkit-app#referencias)
-* [Créditos](https://github.com/CodeandoMexico/papkit-app#creditos)
+  * [Contexto](https://github.com/CodeandoMexico/papkit-app#contexto)
+  * [Sistema](https://github.com/CodeandoMexico/papkit-app#sistema)
+* [Cómo contribuir](https://github.com/CodeandoMexico/papkit-app#cómo-contribuir)
+* [Créditos](https://github.com/CodeandoMexico/papkit-app#créditos)
 * [Licencia](https://github.com/CodeandoMexico/papkit-app#licencia)
 
 
