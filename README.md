@@ -5,98 +5,61 @@
 [![website](https://img.shields.io/badge/website-CodeandoMexico-00D88E.svg)](http://www.codeandomexico.org/)
 [![slack](https://img.shields.io/badge/slack-CodeandoMexico-EC0E4F.svg)](http://slack.codeandomexico.org/)
 
-# Nombre del proyecto
+# PAPKIT!
 
-**tl;dr**: Descripción de tu proyecto en un tweet.
+**tl;dr**: Kit con recursos de apoyo al brigadista que utiliza tecnología smartphone para brindar Primeros Auxilios Psicológicos (P.A.P.) a niñas y niños después de un sismo de una manera divertida.
+
+A través del juego, PAPKIT! empatiza con su forma de aprender y les aporta herramientas para generar su propia resiliencia.
+
 
 ## Índice
 
-* [Acerca del proyecto](https://github.com/CodeandoMexico/civic-project-template#acerca-del-proyecto)
-* [Comienza](https://github.com/CodeandoMexico/civic-project-template#comienza)
-* [Contribuye](https://github.com/CodeandoMexico/civic-project-template#contribuye)
-* [Referencias](https://github.com/CodeandoMexico/civic-project-template#referencias)
-* [Créditos](https://github.com/CodeandoMexico/civic-project-template#creditos)
-* [Licencia](https://github.com/CodeandoMexico/civic-project-template#licencia)
+* [Acerca del proyecto](https://github.com/CodeandoMexico/papkit-app#acerca-del-proyecto)
+* [Contribuye](https://github.com/CodeandoMexico/papkit-app#contribuye)
+* [Referencias](https://github.com/CodeandoMexico/papkit-app#referencias)
+* [Créditos](https://github.com/CodeandoMexico/papkit-app#creditos)
+* [Licencia](https://github.com/CodeandoMexico/papkit-app#licencia)
+
 
 ## Acerca del proyecto
 
-Este proyecto es una plantilla para crear proyectos en Codeando México. Puedes forkearla y modificarla o simplemente tomar lo que necesites. Modifícala a tu gusto. No es necesario referir a este documento en los créditos. El proyecto cuenta ya con:
+### Contexto
 
-- [x] README.md
-- [x] Etiquetas estándar en la sección de *issues*.
-- [x] Etiquetas en el about del proyecto.
-- [x] Template para HACKLOG.md
-- [x] Archivo LICENCE con licencia MIT.
-- [ ] Plantilla para guía de contribución
-- [ ] Plantilla de *issues*.
-- [ ] Más badges!
+PAPKIT! es un proyecto estratégico, multidisciplinario, colaborativo y tecnológico con enfoque social surgido de la crisis colectiva generada por los terremotos de septiembre de 2017 en México y que aprovecha como una oportunidad para demostrar que el diseño es una poderosa herramienta para mitigar problemas enfocados a grupos vulnerables. No podemos evitar que los terremotos ocurran, pero podemos reducir su impacto en nuestros futuros ciudadanos, proporcionando a niñas y niños herramientas para mejorar sus habilidades emocionales.
 
-## Comienza
+### Sistema
 
-### Descarga
+PAPKIT! Sistema de herramientas tecnológicas está soportada en una metodología propia que pone en el centro al niño como sujeto con la capacidad de generar resiliencia pero con el cobijo de una comunidad. Utiliza elementos de Terapia Narrativa, Terapia Cognitivo Conductual y Primeros Auxilios Psicológicos (PAP) de una manera empática y divertida. Es gratuito y un apoyo para cualquier persona o terapeuta que requiere trasladarse para brindar atención en ciudades o zonas rurales ya que son de bajo costo, accesibles y fáciles de replicar. Además puede ser utilizado de manera preventiva y  adaptarse a distintos contextos de desastres en donde pueda existir un impacto psico-social profundo en las y los niños.
 
-1. **Escribe aquí el primer paso.**
+Los elementos que lo componen son:
 
-    Descripción breve del primer segundo.
+1. Aplicación Asistente, el corazón del sistema:
+   - Se instala en un smartphone y es utilizado por el terapeuta para realizar diferentes actividades a través de un monstruo armable llamado Mossi. Las actividades son misiones donde aprenden sobre el miedo, los sismos, técnicas de relajación y ayudan a otros niños en su comunidad a superar el trauma.
 
-   ```
-   comando
-   $ otro comando
-   ```
+2. Material descargable e imprimible:
+   - Patrones para armar el monstruo Mossi y el visor de realidad virtual sobre cartón o material rígido.
+   - Material didáctico para la aplicación de la terapia, medición del progreso y guías de uso para el terapeuta.
 
-    ¿Qué sucede con este paso?
-
-> **Nota**: Información adicional de este paso.
-
-2. **Segunda instrucción.**
-
-    Descripción breve del primer segundo.
-
-   ```
-   comando
-   $ otro comando
-   ```
-
-    ¿Qué sucede con este paso?
+3. Comunidad Virtual:
+   - Sitio web que aloja a la comunidad de psicólogos, diseñadores y cualquier otra persona interesada en aportar sus conocimientos en la generación de contenido así como descargables y tutoriales.
 
 
-### Instalación
+## Cómo contribuir
 
-Utiliza como guía la sección de [Descarga](https://github.com/CodeandoMexico/civic-project-template#descarga).
+Aplicación asistente: Diseñada para concentrarse en lo más importante: ayudar.
 
+Acompaña, ayuda y simplifica la atención de los Primeros Auxilios Psicológicos. Indica al terapeuta cómo llevar acabo las actividades, le permite mantener un registro de la terapia y dar seguimiento a los grupos. También puede acceder a los contenidos de la comunidad y recursos multimedia.
 
-### Ejecución
+La función más importante es dar vida a Mossi.
 
-Utiliza como guía la sección de [Ejecución](https://github.com/CodeandoMexico/civic-project-template#ejecucion)
+A través de la pantalla y audio de cualquier smartphone, Mossi se comunica con niñas y niños. Quien da la terapia puede grabar mensajes personalizados y reproducirlos con la voz de Mossi, así el pequeño monstruo se convierte en su portavoz.
 
-
-## Contribuye
-
-Incluye aquí las formas de contribuir a tu proyecto.
-
-
-## Referencias
-
-1. Bradley, T. (2013) [El Hacker Cívico: Civic-Minded Techies Gain Sway With Government in Mexico and Beyond](http://www.huffingtonpost.com/theresa-bradley/el-hacker-civico-how-civi_b_4334088.html). *The Huffington Post*.
-2. Bracy, C. (2014) [Why Good Hackers Make Good Citizens](https://www.youtube.com/watch?v=QeAGu40vZzI).
-3. Codeando México. (2015) [Los hackers cívicos mexicanos](https://www.fayerwayer.com/2015/01/los-hackers-civicos-mexicanos/). *FayerWayer*.
-4. Goldstein, B., Dyson, L. (2013) [Beyond Transparency: Open Data and the Future of Civic Innovation](http://beyondtransparency.org).
-5. Barry, L. (2016) [vTaiwan: Public Participation Methods on the Cyberpunk Frontier of Democracy](https://civichall.org/civicist/vtaiwan-democracy-frontier). *Civicist*.
-6. Swartz, A. (2008) [Open Access Guerrilla Manifesto](https://archive.org/stream/GuerillaOpenAccessManifesto/Goamjuly2008_djvu.txt).
 
 ## Créditos
 
-### Core-Team
-
-* [octocat](http://github.com/octocat)
-* [rodowi](http://github.com/rodowi)
-
-### Otros contribuidores
-
-Este proyecto tampoco hubiera sido posible sin el apoyo de Richard Stallman, Aaron Swartz, Edward Snowden, Kevin Mitnick, Linus Torvalds y Chelsea Manning.
-
 `{}` con ❤️ por la comunidad de [Codeando México](http://www.codeandomexico.org).
+
 
 ## Licencia
 
-MIT.
+Este proyecto se desarrolla bajo una licencia MIT.
