@@ -49,7 +49,7 @@ Los elementos que lo componen son:
 
 Aplicación asistente: Diseñada para concentrarse en lo más importante: ayudar.
 
-Acompaña, ayuda y simplifica la atención de los Primeros Auxilios Psicológicos. Indica al terapeuta cómo llevar acabo las actividades, le permite mantener un registro de la terapia y dar seguimiento a los grupos. También puede acceder a los contenidos de la comunidad y recursos multimedia.
+Acompaña, ayuda y simplifica la atención de los Primeros Auxilios Psicológicos. Indica al terapeuta cómo llevar a cabo las actividades, le permite mantener un registro de la terapia y dar seguimiento a los grupos. También puede acceder a los contenidos de la comunidad y recursos multimedia.
 
 La función más importante es dar vida a Mossi.
 
